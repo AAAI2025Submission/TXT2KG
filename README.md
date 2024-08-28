@@ -5,9 +5,13 @@
 This is the repository for AAAI anonymous submission **TXT2KG: Automated Construction of Hyper-Knowledge Graphs from Unstructured Text**.
 
 In this paper, we propose TXT2KG, a comprehensive automated approach for constructing KGs that incorporates ontology-level knowledge. 
+
 TXT2KG utilizes LLMs to extract both triples and properties from unstructured texts via carefully crafted prompts. 
+
 Subsequently, TXT2KG performs knowledge deduplication and ontology structuring through clustering, leveraging semantic and KG neighbor information. 
+
 After that, to further enhance the quality of these clusters, LLMs are applied for filtering. 
+
 Finally, TXT2KG generate Hyper-Knowledge Graphs with validated hyper-triples.
 
 ![fig](https://github.com/AAAI2025Submission/TXT2KG/blob/master/fig/Arc_v2.png)
