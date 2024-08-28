@@ -1,0 +1,4 @@
+cur_disease_title: Abnormal amniotic fluid
+cur_disease_others_title: 
+Department: Department of treatment: Obstetrics and Gynecology
+Related diseases: PolyhydramniosOligamnios
