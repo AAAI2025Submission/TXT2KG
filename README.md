@@ -10,7 +10,7 @@ Subsequently, TXT2KG performs knowledge deduplication and ontology structuring t
 After that, to further enhance the quality of these clusters, LLMs are applied for filtering. 
 Finally, TXT2KG generate Hyper-Knowledge Graphs with validated hyper-triples.
 
-![fig](https://github.com/AAAI2025Submission/TXT2KG/blob/master/fig/fig1.png)
+![fig](https://github.com/AAAI2025Submission/TXT2KG/blob/master/fig/Arc_v2.png)
 
 ## Requirements
 
