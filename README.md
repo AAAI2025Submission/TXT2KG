@@ -39,10 +39,10 @@ Finally, TXT2KG generate Hyper-Knowledge Graphs with validated hyper-triples.
 2. Create a Neo4j database.
 3. Enable APOC.
 
-### Generated Dataset
+### Dataset
 
-- The generated property KG is available [here](https://entuedu-my.sharepoint.com/:f:/g/personal/zhixiang002_e_ntu_edu_sg/Et61zEuCTBFFngzCDQmQlz0BFC9Hu8mQ4GSegk1etx89oA?e=qQyGcg).
-- The generated hyper KG and candidate KG are available [here](https://entuedu-my.sharepoint.com/:f:/g/personal/zhixiang002_e_ntu_edu_sg/EkYIE3AxMM1AmJ9oh0MQ1ikBURLTmqNLFJDNDwMj3tnDjQ?e=afZBfj).
+- We show some input examples in folder `disease`. The overall input unstructured data is available [here](https://entuedu-my.sharepoint.com/:f:/g/personal/zhixiang002_e_ntu_edu_sg/EoV-09SelU5Nvyfy3cxBgroBoSA-TjljOj_D6xyLOAG97g?e=xXcsoO).
+- The generated property KG and hyper KG are available [here](https://entuedu-my.sharepoint.com/:f:/g/personal/zhixiang002_e_ntu_edu_sg/Eh8w0TLrAKtCgYy_YwKdXyYB1WFB7XWsChrVGgAFL2DM6g?e=ZT5Lw7).
 
 These KGs and hyper KGs are dump files for Neo4j. Please load them into Neo4j following [this guide](https://neo4j.com/docs/desktop-manual/current/operations/create-from-dump/).
 
