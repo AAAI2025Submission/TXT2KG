@@ -1,8 +1,8 @@
-## Med2KG: Automated Construction of Medical Hyper-Knowledge Graphs from Unstructured Text
+## Med2KG: Automated Construction of Medical Knowledge Graphs from Unstructured Text
 
 **[Note: This repository is for the medical domain. We also implement it for movie domain, please refer to [this repository](https://github.com/WWW2025AnonymousSubmission/Med2KG-movie).]**
 
-This is the repository for WWW 2025 submission **Med2KG: Automated Construction of Medical Hyper-Knowledge Graphs from Unstructured Text**.
+This is the repository for WWW 2025 submission **Med2KG: Automated Construction of Medical Knowledge Graphs from Unstructured Text**.
 
 In this paper, we propose Med2KG, a comprehensive automated approach for constructing KGs using LLMs. 
 
